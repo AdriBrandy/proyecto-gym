@@ -133,5 +133,30 @@
       "price": 60000
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": "product-2",
+      "title": "Remera Deportiva",
+      "description": "Remera ideal para entrenamiento fresca y comoda.",
+      "price": 10000,
+      "image": "/images/img2.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "product-3",
+      "title": "Creatina",
+      "description": "Creatina Monohidrato marca Gentech.",
+      "price": 20000,
+      "image": "/images/img3.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "product-4",
+      "title": "Proteina",
+      "description": "La proteina Universal es la mejor del mercado.",
+      "price": 30000,
+      "image": "/images/img4.jpg",
+      "quantity": 1
+    }
+  ]
 }
